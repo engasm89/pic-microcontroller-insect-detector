@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# PIC Microcontroller Insect Detector
-
-- Course: PIC Microcontroller Insect Detector
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/pic-microcontroller-insect-detector/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Use sensors and PIC microcontroller logic to detect and respond to insect presence.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and build detection systems.
